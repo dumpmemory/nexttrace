@@ -22,13 +22,17 @@
   </a>
 </p>
 
+## Network Sponsor
+
+<a href="https://dmit.io">
+  <img src="https://github.com/nxtrace/Ntrace-core/assets/13616352/89028e73-114b-4abc-92d8-3265ba74f3d3" width="153.6" height="56.6">
+</a>
+
+We are extremely grateful to [DMIT](https://dmit.io) for providing the network infrastructure that powers this project.
+
 ## How To Use
 
 Document Language: English | [简体中文](README_zh_CN.md)
-
-⚠️ The latest stable version of NextTrace is v1.1.2, while the core project is the latest restructured project. For the v1+ versions of NextTrace, we will no longer have functional updates (bug fixes for existing features will continue).
-
-V1 (v1.1.3 - v1.1.7) is an **experimental** version with **no SLA** guarantees, and is currently in maintenance mode. It will not be merged into the `Ntrace-core` main repository. If you do not need the feature updates included in version v1.1.3 and subsequent versions (please read the relevant section in [#Others](#others)), it is recommended to use the stable version v1.1.2. For the specific code, please refer to [nxtrace/Ntrace-V1](https://github.com/nxtrace/Ntrace-V1).
 
 ### Automated Installation
 
