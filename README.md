@@ -25,7 +25,7 @@
 ## Network Sponsor
 
 <a href="https://dmit.io">
-  <img src="https://github.com/nxtrace/Ntrace-core/assets/13616352/89028e73-114b-4abc-92d8-3265ba74f3d3" width="153.6" height="56.6">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/13616352/263278177-89028e73-114b-4abc-92d8-3265ba74f3d3.png" width="153.6" height="56.6">
 </a>
 
 We are extremely grateful to [DMIT](https://dmit.io) for providing the network infrastructure that powers this project.
