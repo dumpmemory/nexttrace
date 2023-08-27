@@ -22,13 +22,19 @@
   </a>
 </p>
 
-## Network Sponsor
+## IAAS Sponsor
 
-<a href="https://dmit.io">
-  <img src="https://www.dmit.io/templates/dmit_theme_2020/dmit/assets/images/dmit_logo_with_text_blue.svg" width="187.77" height="69.19">
-</a>
+<div style="text-align: center;">
+    <a href="https://dmit.io">
+        <img src="https://www.dmit.io/templates/dmit_theme_2020/dmit/assets/images/dmit_logo_with_text_blue.svg" width="170.7" height="62.9">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://misaka.io" >
+        <img src="https://www.jsdelivr.com/assets/8997e39e1f9d776502ab4d7cdff9d1608aa67aaf/img/globalping/sponsors/misaka.svg" width="170.7" height="62.9">
+    </a>
+</div>
 
-We are extremely grateful to [DMIT](https://dmit.io) for providing the network infrastructure that powers this project.
+We are extremely grateful to [DMIT](https://dmit.io) and [Misaka](https://misaka.io) for providing the network infrastructure that powers this project.
 
 ## How To Use
 
